@@ -1,0 +1,5 @@
+address,label,entity_type,country,confidence,notes
+TXA123KenyaBroker001,Kenya OTC Broker Alpha,broker,KE,0.95,High volume Nairobi OTC desk
+TXB999KenyaTrader01,Kenya Individual Trader,individual,KE,0.80,Retail trader Nairobi
+TXC456NairobiExch01,Nairobi Crypto Exchange,exchange,KE,0.99,Registered Kenyan exchange
+TXD789KenyaBroker02,Kenya OTC Broker Beta,broker,KE,0.90,Mombasa OTC desk high USDT volume
