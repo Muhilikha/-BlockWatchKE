@@ -1,0 +1,29 @@
+2026-03-10 12:46:43.847 | INFO     | __main__:run_listener:182 - =======================================================
+2026-03-10 12:46:43.847 | INFO     | __main__:run_listener:183 -   BlockWatchKE — Real-Time Block Listener
+2026-03-10 12:46:43.848 | INFO     | __main__:run_listener:184 -   Polling every 10s
+2026-03-10 12:46:43.848 | INFO     | __main__:run_listener:185 -   Contract: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+2026-03-10 12:46:43.848 | INFO     | __main__:run_listener:186 -   Press Ctrl+C to stop
+2026-03-10 12:46:43.849 | INFO     | __main__:run_listener:187 - =======================================================
+2026-03-10 12:46:45.579 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $663,023 USDT | 0xf87f1575a8e977862f... → 0x24941dbcc3f81b1f2f... | large_transfer: $663,023 USDT, very_large: $663,023 USDT
+2026-03-10 12:46:45.591 | INFO     | __main__:print_stats:172 - [12:46:45] New:  200 tx | Alerts:   1 | Total processed: 200
+2026-03-10 12:46:56.387 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:75 | $635,000 USDT | 0xdca8d723941f0279c8... → 0x01d6c6c9d5a45f05ca... | large_transfer: $635,000 USDT, very_large: $635,000 USDT, round_number_amount
+2026-03-10 12:46:56.389 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $875,640 USDT | 0xeb040417e96f352243... → 0x0689efe7c689ab71ec... | large_transfer: $875,640 USDT, very_large: $875,640 USDT
+2026-03-10 12:46:56.391 | INFO     | __main__:print_stats:172 - [12:46:56] New:  200 tx | Alerts:   2 | Total processed: 400
+2026-03-10 12:47:07.584 | INFO     | __main__:print_stats:172 - [12:47:07] New:  200 tx | Alerts:   0 | Total processed: 600
+2026-03-10 12:47:18.570 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $500,500 USDT | 0xd54621633ca012b90b... → 0x467b763424144de17f... | large_transfer: $500,500 USDT, very_large: $500,500 USDT
+2026-03-10 12:47:18.576 | INFO     | __main__:print_stats:172 - [12:47:18] New:  200 tx | Alerts:   1 | Total processed: 800
+2026-03-10 12:47:29.764 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:75 | $2,000,000 USDT | 0x4f60023edf50b9a663... → 0x1501a9af32842343d0... | large_transfer: $2,000,000 USDT, very_large: $2,000,000 USDT, round_number_amount
+2026-03-10 12:47:29.766 | INFO     | __main__:print_stats:172 - [12:47:29] New:  200 tx | Alerts:   1 | Total processed: 1,000
+2026-03-10 12:47:40.786 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $500,001 USDT | 0x62cc6c2b869c77dd9b... → 0x1d18e8dd674f1a9a96... | large_transfer: $500,001 USDT, very_large: $500,001 USDT
+2026-03-10 12:47:40.791 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $695,037 USDT | 0x0817c9a122f7907e70... → 0x3168f73bce48908993... | large_transfer: $695,037 USDT, very_large: $695,037 USDT
+2026-03-10 12:47:40.794 | INFO     | __main__:print_stats:172 - [12:47:40] New:  200 tx | Alerts:   2 | Total processed: 1,200
+2026-03-10 12:47:52.089 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $2,845,177 USDT | 0xcf6948a46f79a3aa0d... → 0xf9276bf176e3d24e2a... | large_transfer: $2,845,177 USDT, very_large: $2,845,177 USDT
+2026-03-10 12:47:52.091 | INFO     | __main__:print_stats:172 - [12:47:52] New:  200 tx | Alerts:   1 | Total processed: 1,400
+2026-03-10 12:48:03.097 | INFO     | __main__:print_stats:172 - [12:48:03] New:  200 tx | Alerts:   0 | Total processed: 1,600
+2026-03-10 12:48:13.855 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:75 | $2,500,000 USDT | 0xff6efa105cdf47ca21... → 0x8bdf4d7aaab8f87a9b... | large_transfer: $2,500,000 USDT, very_large: $2,500,000 USDT, round_number_amount
+2026-03-10 12:48:13.857 | INFO     | __main__:print_stats:172 - [12:48:13] New:  200 tx | Alerts:   1 | Total processed: 1,800
+2026-03-10 12:48:24.908 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:75 | $563,000 USDT | 0xd66b731a8a9e9cae18... → 0xe50e98f4b6e7bf34ba... | large_transfer: $563,000 USDT, very_large: $563,000 USDT, round_number_amount
+2026-03-10 12:48:24.911 | INFO     | __main__:print_stats:172 - [12:48:24] New:  200 tx | Alerts:   1 | Total processed: 2,000
+2026-03-10 12:48:35.691 | WARNING  | __main__:fire_alert:143 - 🚨 ALERT | Score:65 | $699,999 USDT | 0x22a754360ffc7fe598... → 0xe02dcd91e4b8f508cf... | large_transfer: $699,999 USDT, very_large: $699,999 USDT
+2026-03-10 12:48:35.696 | INFO     | __main__:print_stats:172 - [12:48:35] New:  200 tx | Alerts:   1 | Total processed: 2,200
+2026-03-10 12:48:46.562 | INFO     | __main__:print_stats:172 - [12:48:46] New:  200 tx | Alerts:   0 | Total processed: 2,400
