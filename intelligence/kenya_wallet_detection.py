@@ -88,8 +88,8 @@ def signal_timing_pattern(df: pd.DataFrame, all_wallets: set) -> dict:
     """
     scores = {}
     df = df.copy()
-    df["hour_eat"] = (pd.to_datetime(df["block_time"], utc=True)
-                      .dt.tz_convert("Africa/Nairobi").dt.hour)
+    df["block_time_parsed"] = pd.to_datetime(df["timestamp"], unit="ms", utc=True)
+    df["hour_eat"] = df["block_time_parsed"].dt.tz_convert("Africa/Nairobi").dt.hour
 
     for wallet in all_wallets:
         wallet_txs = df[(df["sender"] == wallet) | (df["receiver"] == wallet)]
